@@ -1,5 +1,5 @@
 <h1 align="center">"Adventure. Excitement. A Jedi craves not these things" </h1>
-<h3 align="center">Welcome, visitor. You’ve stepped into a world where curiosity charts the course and code shapes the journey. I’m Sanchit, here to blaze new trails in realms of AIML, CV and Software Dev. Strap in; the adventure begins!
+<h3 align="center">"Welcome, visitor! You've stepped into a world where curiosity charts the course and code shapes the journey. I'm Sanchit—on a mission to blaze new trails in the realms of AI/ML, computer vision, and software development. Strap in—the adventure begins!"
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanchit1606&label=Profile%20views&color=0e75b6&style=flat" alt="sanchit1606" /> </p>
