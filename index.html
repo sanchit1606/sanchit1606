@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Sanchit Nipanikar | Portfolio</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet"/>
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #f8f9fa;
+      color: #333;
+    }
+    h2 {
+      color: #0d6efd;
+    }
+    .navbar-brand {
+      font-weight: 800;
+      color: #0d6efd !important;
+    }
+    .nav-link {
+      color: #0d6efd !important;
+    }
+    .nav-link:hover {
+      text-decoration: underline;
+    }
+    .section {
+      padding: 60px 15px;
+    }
+    .card {
+      border: none;
+      cursor: pointer;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    }
+    .profile-img {
+      width: 180px;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid #fff;
+      box-shadow: 0 0 10px rgba(0,0,0,0.15);
+    }
+    footer {
+      padding: 20px 0;
+      background: #fff;
+      text-align: center;
+      font-size: 14px;
+    }
+    .social-icons a {
+      color: #333;
+      margin-right: 15px;
+      font-size: 28px; /* Increased from 20px */
+      transition: color 0.2s;
+    }
+    .social-icons a:hover {
+      color: #0d6efd;
+    }
+    .education-table th, .education-table td {
+      vertical-align: middle;
+    }
+    .education-table {
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+  <div class="container">
+    <a class="navbar-brand" href="#">Welcome to my page</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="#education">Education</a></li>
+        <li class="nav-item"><a class="nav-link" href="#projects">Projects</a></li>
+        <li class="nav-item"><a class="nav-link" href="#experience">Experience</a></li>
+        <li class="nav-item"><a class="nav-link" href="#skills">Skills</a></li>
+        <li class="nav-item"><a class="nav-link" href="#certs">Courses</a></li>
+        <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<section id="about" class="section text-center">
+  <div class="container">
+    <img src="myimage.jpeg" alt="Sanchit Nipanikar" class="profile-img mb-4"/>
+    <h2>Sanchitsai Nipanikar</h2>
+    <p class="lead">"Hello, visitor! You've stepped into a world where curiosity charts the course and code shapes the journey. I'm Sanchit—on a mission to blaze new trails in the realms of AI/ML, computer vision, and software development. Strap in—the adventure begins!"</p>
+    <p><strong>Location:</strong> Marvel Cascada, Balewadi, Pune – 411045</p>
+    <p><strong>Email:</strong> <a href="mailto:sanchitnipanikar@gmail.com">sanchitnipanikar@gmail.com</a></p>
+    <p><a href="https://drive.google.com/file/d/1DG9Yb_2vKSf7-y-EKdwTG2Hhkgli4NsE/view?usp=drive_link" target="_blank" class="btn btn-outline-primary mt-2">Check CV</a></p>
+    <div class="social-icons mt-3">
+      <a href="https://github.com/sanchit1606" target="_blank"><i class="fab fa-github"></i></a>
+      <a href="https://www.linkedin.com/in/sanchit1606" target="_blank"><i class="fab fa-linkedin"></i></a>
+    </div>
+  </div>
+</section>
+
+<section id="education" class="section bg-light">
+  <div class="container">
+    <h2 class="mb-4 text-center">Education</h2>
+    <div class="table-responsive">
+      <table class="table table-bordered education-table text-center">
+        <thead class="table-dark">
+          <tr>
+            <th>Examination</th>
+            <th>Institute</th>
+            <th>Year</th>
+            <th>CGPA/%</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Graduation</td>
+            <td>Vishwakarma Institute of Technology, Pune</td>
+            <td>2026</td>
+            <td>8.43</td>
+          </tr>
+          <tr>
+            <td>HSC</td>
+            <td>Narayana Junior College, Kondapur, Hyderabad</td>
+            <td>2022</td>
+            <td>92.5%</td>
+          </tr>
+          <tr>
+            <td>SSC</td>
+            <td>Sant Tukaram National Model School, Latur</td>
+            <td>2020</td>
+            <td>95.6%</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section id="projects" class="section">
+  <div class="container">
+    <h2 class="mb-5 text-center">Major Key Projects</h2>
+    <div class="row g-4">
+      <div class="col-md-6">
+        <div class="card p-4">
+          <h5>Real Estate Website using MERN Stack</h5>
+          <p>• Developed a fully responsive website with improved backend, frontend, SEO & content structure.<br>• Integrated modules: property listings, authentication, booking, search filters, and admin dashboard.</p>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card p-4">
+          <h5>Face Recognition-Based Attendance System</h5>
+          <p>• Published in Springer (AICTC 2024). Implemented OpenCV facial recognition using Haar cascade & LBPH for classroom attendance automation.</p>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card p-4">
+          <h5>Multimodal Anonymization Framework for MP4 Videos</h5>
+          <p>• Best Paper @ IEEE ESCI 2025. Used OCR, GANs, and audio redaction for privacy-preserving anonymization.</p>
+        </div>
+      </div>
+      <div class="col-md-6">
+        <div class="card p-4">
+          <h5>DeepScan3D – Single X-ray to 3D CT using NeRF</h5>
+          <p>• GAN-based NeRF with latent code optimization & test-time self-supervision for reconstructing CT-like volumes from 2D X-rays.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="experience" class="section bg-light">
+  <div class="container">
+    <h2 class="mb-4 text-center">Work Experience</h2>
+    <div class="card p-4">
+      <h5>Web Development Intern – CORAZON HOMES Pvt. Ltd. (Apr 2025 – May 2025)</h5>
+      <p>• Redesigned and optimized the real estate website using the <strong>MERN stack</strong>.<br>• Developed modules: property listings, user authentication, booking, filters, admin dashboard.<br>• Enhanced SEO, content architecture, and user experience.</p>
+    </div>
+  </div>
+</section>
+
+<section id="skills" class="section">
+  <div class="container">
+    <h2 class="mb-4 text-center">Technical Skills</h2>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">Languages: C, C++, Python, Java, JavaScript, HTML/CSS, SQL</li>
+      <li class="list-group-item">Frameworks & Libraries: PyTorch, OpenCV, NumPy, Pandas, TensorFlow, Keras, React, Express.js</li>
+      <li class="list-group-item">Databases: MySQL, MongoDB</li>
+      <li class="list-group-item">Cloud & DevOps: Azure, AWS, Docker, Kubernetes, OpenShift, Istio</li>
+      <li class="list-group-item">Tools & Platforms: GitHub, Jupyter Notebook, Google Colab, Anaconda, VS Code, CMake, Makefile, Docker Compose</li>
+    </ul>
+  </div>
+</section>
+
+<section id="certs" class="section bg-light">
+  <div class="container">
+    <h2 class="mb-4 text-center">Relevant Courses & Certifications</h2>
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item">Fundamentals of Deep Learning – Nvidia</li>
+      <li class="list-group-item">Building RAG Agents with LLMs – Nvidia</li>
+      <li class="list-group-item">Introduction to Transformer-Based Natural Language Processing – Nvidia</li>
+      <li class="list-group-item">AWS Cloud Technical Essentials – AWS</li>
+      <li class="list-group-item">Python for Data Science, AI & Development – IBM</li>
+      <li class="list-group-item">Deep Learning Specialization – DeepLearning.AI</li>
+      <li class="list-group-item">Ongoing: Essentials with Azure Fundamentals – Microsoft</li>
+      <li class="list-group-item">Ongoing: Introduction to Containers w/ Docker, Kubernetes & OpenShift – IBM</li>
+      <li class="list-group-item">Ongoing: Accelerating End-to-End Data Science Workflows – Nvidia</li>
+    </ul>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <div class="container text-center">
+    <h2 class="mb-4">Contact</h2>
+    <p>Email: <a href="mailto:sanchitnipanikar@gmail.com">sanchitnipanikar@gmail.com</a></p>
+    <p>Location: Marvel Cascada, Balewadi, Pune – 411045</p>
+  </div>
+</section>
+
+<footer>
+  <p>&copy; 2025 Sanchit Nipanikar. All rights reserved.</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
