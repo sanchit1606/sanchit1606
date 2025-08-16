@@ -1,4 +1,4 @@
-# 🚀 Sanchit Baliram Nipanikar
+# 🚀 Sanchit Nipanikar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=12D640&center=true&vCenter=true&width=435&lines=Computer+Vision+Engineer;Machine+Learning+Developer;AI+Researcher;Tennis+Player+%F0%9F%8E%BE" alt="Typing SVG" />
