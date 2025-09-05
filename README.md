@@ -29,7 +29,7 @@ Welcome, visitor! You've stepped into a world where curiosity charts the course 
 - **"Essentials with Azure Fundamentals"** by Microsoft
 
 ### 💬 Ask me about
-**Tennis!** 🎾 I'm the current college team captain for Table Tennis and Tennis, playing at University level. Played Tennis at state level for CBSE (U14 and U17).
+**Tennis!** 🎾 
 
 ---
 
