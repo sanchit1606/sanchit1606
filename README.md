@@ -25,14 +25,14 @@ Hey there! 👋 I'm **Sanchit**, a Computer Science student at VIT Pune who beli
 ### 🔥 Currently Working On
 - **🚀 LUMEN** - Localized Unified Medical Engine (OpenAI×NXTWave Buildathon Project)
 - **🧠 DeepScan3D** - Single X-ray to 3D CT Reconstruction using Neural Radiance Fields
-- 
+
 ### 🌱 Currently Learning
 - **"Introduction to Containers w/ Docker, Kubernetes & OpenShift"** by IBM
 - **"Accelerating End-to-End Data Science Workflows"** by Nvidia
 - **"Essentials with Azure Fundamentals"** by Microsoft
 
 ### 💬 Ask me about
-**Tennis!** 🎾 | **AI/ML** 🤖 | **Art** 🎨 |
+**Tennis!** 🎾 | **AI/ML** 🤖 | **Art** 🎨 
 
 ---
 
