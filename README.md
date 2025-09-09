@@ -18,7 +18,7 @@
   <img src="https://github.com/sanchit1606/sanchit1606/blob/main/images/photo.jpeg" alt="Sanchit Nipanikar" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
 </div>
 
-> *"The future belongs to those who believe in the beauty of their dreams"* - Eleanor Roosevelt
+> *"Adventure. Excitement. A Jedi craves not these things"* - Yoda
 
 Hey there! 👋 I'm **Sanchit**, a passionate Computer Science student at VIT Pune who believes in the power of technology to create meaningful impact. When I'm not coding, you'll find me on the tennis court, sketching in my art book, or diving deep into the latest AI research papers.
 
