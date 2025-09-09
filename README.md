@@ -20,20 +20,19 @@
 
 > *"Adventure. Excitement. A Jedi craves not these things"* - Yoda
 
-Hey there! 👋 I'm **Sanchit**, a passionate Computer Science student at VIT Pune who believes in the power of technology to create meaningful impact. When I'm not coding, you'll find me on the tennis court, sketching in my art book, or diving deep into the latest AI research papers.
+Hey there! 👋 I'm **Sanchit**, a Computer Science student at VIT Pune who believes in the power of technology to create meaningful impact. When I'm not coding, you'll find me on the tennis court, sketching in my art book.
 
 ### 🔥 Currently Working On
 - **🚀 LUMEN** - Localized Unified Medical Engine (OpenAI×NXTWave Buildathon Project)
 - **🧠 DeepScan3D** - Single X-ray to 3D CT Reconstruction using Neural Radiance Fields
-- **🛡️ Multimodal Anonymization Framework** - Privacy-preserving video processing
-
+- 
 ### 🌱 Currently Learning
 - **"Introduction to Containers w/ Docker, Kubernetes & OpenShift"** by IBM
 - **"Accelerating End-to-End Data Science Workflows"** by Nvidia
 - **"Essentials with Azure Fundamentals"** by Microsoft
 
 ### 💬 Ask me about
-**Tennis!** 🎾 | **AI/ML** 🤖 | **Art** 🎨 | **Research** 🔬 
+**Tennis!** 🎾 | **AI/ML** 🤖 | **Art** 🎨 |
 
 ---
 
