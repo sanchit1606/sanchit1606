@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Sanchit Nipanikar
+# 👋 Hey there! I'm Sanchit
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Student+%F0%9F%8E%93;Athlete+%F0%9F%8E%BE;Artist+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;Tennis+Player+%F0%9F%8E%BE" alt="Typing SVG" />
