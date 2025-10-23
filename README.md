@@ -103,40 +103,6 @@ Hey there! 👋 I'm **Sanchit**, a Computer Science student at VIT Pune who beli
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchit1606&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&color=00D4FF&line=00D4FF&point=00D4FF" alt="GitHub Activity Graph" />
 </div>
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI/ML & Computer Vision
-- **[🚀 LUMEN](https://github.com/sanchit1606/LUMEN)** - Localized Unified Medical Engine (OpenAI×NXTWave Buildathon)
-- **[🧠 DeepScan3D](https://github.com/sanchit1606/sanchit1606)** - Single X-ray to 3D CT Reconstruction using Neural Radiance Fields
-- **[🛡️ Multimodal Anonymization Framework](https://github.com/sanchit1606/sanchit1606)** - Privacy-preserving video processing (Best Paper Award at IEEE ESCI 2025)
-- **[👤 Face Recognition Attendance System](https://github.com/sanchit1606/Face-Recognition-Based-Attendance-System)** - Published in Springer AICTC 2024
-- **[🤖 SigLIP Gemma VLM](https://github.com/sanchit1606/A-Lightweight-Multimodal-Vision-Language-Model)** - Lightweight Vision-Language Model
-- **[🛠️ Flex Sensor Prosthetic Hand](https://github.com/sanchit1606/sanchit1606)** - Patent published (IP India)
-
-### 🌐 Web Development & Applications
-- **[🏠 Corazon Homes Website](https://github.com/sanchit1606/sanchit1606)** - Industry-sponsored MERN stack project
-- **[🛰️ Aerial2Map](https://github.com/sanchit1606/Aerial2Map-Pix2Pix-based-Satellite-to-Map-Translation)** - Pix2Pix-based Satellite-to-Map Translation
-- **[📝 Markdown Transpiler](https://github.com/sanchit1606/markdown_transpiler)** - Markdown to HTML converter
-- **[🔧 Facilitator](https://github.com/sanchit1606/facilitator)** - Project management tool
-
-### 🔧 Systems & Algorithms
-- **[📡 Packet Sniffer](https://github.com/sanchit1606/sanchit1606)** - Real-time network traffic analysis
-- **[🧬 DNA Data Compression](https://github.com/sanchit1606/sanchit1606)** - Genomic sequencing compression algorithm
-
----
-
-## 🎓 Education
-
-<div align="center">
-  <img src="https://img.shields.io/badge/VIT%20Pune-B.Tech%20Computer%20Science-00D4FF?style=for-the-badge&logo=graduation-cap" alt="VIT Pune" />
-  <img src="https://img.shields.io/badge/CGPA-8.43%2F10-FFD93D?style=for-the-badge" alt="CGPA" />
-  <img src="https://img.shields.io/badge/Year-2022--2026-FF6B6B?style=for-the-badge" alt="Year" />
-  <img src="https://img.shields.io/badge/Expected%20Graduation-May%202026-00D4FF?style=for-the-badge" alt="Graduation" />
-</div>
-
----
 
 ## 🏆 Certifications & Awards
 
