@@ -241,89 +241,18 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 
 ### Certifications
 
-- **Python for Data Science, AI & Development** - IBM
-- **Fundamentals of Deep Learning** - NVIDIA
-- **Building RAG Agents with LLMs** - NVIDIA
-- **Introduction to Transformer-Based NLP** - NVIDIA
-- **Deep Learning Specialization** - DeepLearning.AI
-- **AWS Cloud Technical Essentials** - AWS
-- **Introduction to Containers w/ Docker, Kubernetes & OpenShift** - IBM
-- **Accelerating End-to-End Data Science Workflows** - NVIDIA
-- **Essentials with Azure Fundamentals** - Microsoft
+- **Python for Data Science, AI & Development** - IBM | [Certificate](https://www.coursera.org/account/accomplishments/certificate/SBIM00JBVK0F)
+- **Fundamentals of Deep Learning** - NVIDIA | [Certificate](https://learn.nvidia.com/certificates?id=WSoP73nJToSXpj4-KV1XCg)
+- **Building RAG Agents with LLMs** - NVIDIA | [Certificate](https://learn.nvidia.com/certificates?id=9aPVTG7GRRWQFJRB281Yrw)
+- **Introduction to Transformer-Based NLP** - NVIDIA | [Certificate](https://learn.nvidia.com/certificates?id=VS34VMm7TYau-AkOXpfALg)
+- **Deep Learning Specialization** - DeepLearning.AI | [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BVRMHPS7FG3W)
+- **AWS Cloud Technical Essentials** - AWS | [Certificate](https://www.coursera.org/account/accomplishments/certificate/KPMFQZQXA1SD)
 
-<div align="center">
-  <a href="https://drive.google.com/drive/folders/1tBrETLYBgA6QUxKxxUbaxKwdDqUW1-kY?usp=drive_link">
-    <img src="https://img.shields.io/badge/NVIDIA-Certifications-76B900?style=for-the-badge&logo=nvidia" alt="NVIDIA Certifications" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1tBrETLYBgA6QUxKxxUbaxKwdDqUW1-kY?usp=drive_link">
-    <img src="https://img.shields.io/badge/AWS-Certifications-FF9900?style=for-the-badge&logo=amazon-aws" alt="AWS Certifications" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1tBrETLYBgA6QUxKxxUbaxKwdDqUW1-kY?usp=drive_link">
-    <img src="https://img.shields.io/badge/DeepLearning.AI-Certifications-00D4FF?style=for-the-badge" alt="DeepLearning.AI Certifications" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1tBrETLYBgA6QUxKxxUbaxKwdDqUW1-kY?usp=drive_link">
-    <img src="https://img.shields.io/badge/IBM-Certifications-052FAD?style=for-the-badge&logo=ibm" alt="IBM Certifications" />
-  </a>
-  <a href="https://drive.google.com/drive/folders/1tBrETLYBgA6QUxKxxUbaxKwdDqUW1-kY?usp=drive_link">
-    <img src="https://img.shields.io/badge/Microsoft-Certifications-00D4FF?style=for-the-badge&logo=microsoft" alt="Microsoft Certifications" />
-  </a>
-</div>
+### Awards
+
+- **Best Paper of the Session** - A Multimodal Anonymization Framework for MP4 Videos at IEEE International Conference on Emerging Smart Computing & Informatics (ESCI 2025), Pune | [Paper](https://ieeexplore.ieee.org/document/10988328) | [Certificate](https://drive.google.com/file/d/15I4AE3IQ7waCHpCUQrFat5GiNUeYMvQ_/view?usp=drive_link)
 
 ---
-
-## Beyond Code
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Tennis-Player%20%F0%9F%8E%BE-FF6B6B?style=for-the-badge" alt="Tennis Player" />
-  <img src="https://img.shields.io/badge/Artist-%F0%9F%8E%A8-FFD93D?style=for-the-badge" alt="Artist" />
-  <img src="https://img.shields.io/badge/Team%20Captain-Table%20Tennis%20%26%20Tennis-00D4FF?style=for-the-badge" alt="Team Captain" />
-</div>
-
-- 🏓 **College Team Captain** for Table Tennis and Tennis (University level)
-- 🎾 **State Level Tennis Player** for CBSE (U14 and U17)
-- 🎨 **Gold Medal** for sketching in Indian Art Contest (2024)
-- 🎬 **Movie Enthusiast** - Love binging academy award winning movies and series
-- 🎨 **Active Artist** and athlete
-
----
-
-## Let's Connect!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sanchit1606/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:sanchitnipanikar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://drive.google.com/file/d/1eRNP95ttareVCGXvIzCZbJ7U_glhTWFh/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-View%20CV-00D4FF?style=for-the-badge" alt="Resume" />
-  </a>
-  <a href="https://sanchit1606.github.io/sanchit1606/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Website-FFD93D?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/sanchit1606">
-    <img src="https://img.shields.io/badge/GitHub-Follow-FF6B6B?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-</div>
-
----
-
-## Current Status
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-00D4FF?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Looking%20for-AI%2FML%20Internships-FF6B6B?style=for-the-badge" alt="Looking For" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%26%20Research-FFD93D?style=for-the-badge" alt="Open To" />
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanchit1606&theme=tokyonight" alt="GitHub Trophies" />
-</div>
 
 ---
 
