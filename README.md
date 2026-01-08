@@ -19,10 +19,14 @@
 ## About Me
 
 <div align="center">
+  <img src="./effect2.svg" alt="Effect Banner" />
+</div>
+
+<div align="center">
   <img src="./PHOTO_SANCHIT.jpeg" alt="Sanchit Nipanikar" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
 </div>
 
-> *"Adventure. Excitement. A Jedi craves not these things"* - Yoda
+> *"You never get a second chance to make a first impression"* - Will Rogers
 
 Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engineering from Vishwakarma Institute of Technology, Pune. Welcome to my GitHub profile! 👋
 
@@ -100,11 +104,40 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 
 ## Education
 
-| Degree                                  | University/Board | Institution                                  | Year    | CGPA/%           |
-| --------------------------------------- | ---------------- | -------------------------------------------- | ------- | ---------------- |
-| **B.Tech (Computer Engineering)** | SPPU             | Vishwakarma Institute of Technology, Pune    | 2022-26 | **8.54**   |
-| **Intermediate**                  | TSBIE            | Narayana Junior College, Kondapur, Hyderabad | 2020-22 | **92.50%** |
-| **Matriculation**                 | CBSE             | Sant Tukaram National Model School, Latur    | 2019-20 | **95.60%** |
+<div align="center">
+
+<table style="border-collapse: collapse; width: 100%; max-width: 900px; margin: 0 auto; background-color: #0d1117;">
+<tr style="background: linear-gradient(135deg, #1a1f2e 0%, #2d1b3d 100%); color: #00D4FF;">
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">Degree</th>
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">University/Board</th>
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">Institution</th>
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">Year</th>
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">CGPA/%</th>
+</tr>
+<tr style="background-color: #161b22;">
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>B.Tech (Computer Engineering)</strong></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">SPPU</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">Vishwakarma Institute of Technology, Pune</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">2022-26</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>8.54</strong></td>
+</tr>
+<tr style="background-color: #0d1117;">
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>Intermediate</strong></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">TSBIE</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">Narayana Junior College, Kondapur, Hyderabad</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">2020-22</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>92.50%</strong></td>
+</tr>
+<tr style="background-color: #161b22;">
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>Matriculation</strong></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">CBSE</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">Sant Tukaram National Model School, Latur</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">2019-20</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>95.60%</strong></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -115,6 +148,12 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 - Redesigned and optimized (SEO) the company's real estate website using the MERN stack as part of an industry-sponsored project
 - Achieved **5-10% improvement** in search engine visibility and **~10% increase** in organic traffic
 - Built key modules including property listings, user authentication, advanced search filters, booking interface, and admin dashboard
+
+---
+
+<div align="center">
+  <img src="./effect3.gif" alt="Effect 3 Animation" />
+</div>
 
 ---
 
