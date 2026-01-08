@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./github-user-contribution.svg" alt="Snake Game"/>
+	<img src="./assets/readme/github-user-contribution.svg" alt="Snake Game"/>
 </p>
 
 <div align="center">
@@ -23,11 +23,11 @@
 ## About Me
 
 <div align="center">
-  <img src="./effect2.svg" alt="Effect Banner" />
+  <img src="./assets/readme/effect2.svg" alt="Effect Banner" />
 </div>
 
 <div align="center">
-  <img src="./PHOTO_SANCHIT.jpeg" alt="Sanchit Nipanikar" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
+  <img src="./assets/readme/PHOTO_SANCHIT.jpeg" alt="Sanchit Nipanikar" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
 </div>
 
 <div align="center">
@@ -42,9 +42,11 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 
 ### Currently Working On
 
-**LUMEN** - Localized Unified Medical Engine for Triage (OpenAI×NXTWave Buildathon - State-Level Selection) | [Demo](https://lumen-sanchit.netlify.app/) | [Repository](https://github.com/sanchit1606/LUMEN.git)
+**LUMEN** - Localized Unified Medical Engine for Triage (OpenAI×NXTWave Buildathon - selected for State-Level)
 
-<img src="./effecrt.gif" alt="Effect Animation" width="300" />
+| [Demo](https://lumen-sanchit.netlify.app/) | [Repository](https://github.com/sanchit1606/LUMEN.git) |
+
+<img src="./assets/readme/effecrt.gif" alt="Effect Animation" width="300" />
 
 </div>
 
@@ -170,7 +172,7 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 ---
 
 <div align="center">
-  <img src="./effect3.gif" alt="Effect 3 Animation" />
+  <img src="./assets/readme/effect3.gif" alt="Effect 3 Animation" />
 </div>
 
 ---
@@ -332,7 +334,7 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 </div>
 
 <div align="center">
-  <img src="./effect4.gif" alt="Effect 4 Animation" />
+  <img src="./assets/readme/effect4.gif" alt="Effect 4 Animation" />
 </div>
 
 ---
