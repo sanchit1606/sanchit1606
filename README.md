@@ -118,72 +118,57 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 
 ---
 
-## Achievements & Recognition
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Best%20Paper%20Award-IEEE%20ESCI%202025-00D4FF?style=for-the-badge" alt="Best Paper Award" />
-  <img src="https://img.shields.io/badge/Publication-Springer%20AICTC%202024-FF6B6B?style=for-the-badge" alt="Publication" />
-  <img src="https://img.shields.io/badge/Publication-Springer%20ICTCS%202025-FF6B6B?style=for-the-badge" alt="Publication" />
-  <img src="https://img.shields.io/badge/Under%20Review-IEEE%20TMI-00D4FF?style=for-the-badge" alt="Under Review" />
-  <img src="https://img.shields.io/badge/Patent-Published%20(IP%20India)-FFD93D?style=for-the-badge" alt="Patent" />
-  <img src="https://img.shields.io/badge/Gold%20Medal-Indian%20Art%20Contest%202024-FFD93D?style=for-the-badge" alt="Gold Medal" />
-</div>
-
----
-
 ## Key Projects & Publications
-
-### Major Projects
-
-#### **CT-Former: Reconstructing 3D CT Scans from Single X-rays with Transformer-Enhanced NeRF and MLG Ray Sampling**
-
-*Major Project (7th Sem, 2025) | Under review: IEEE Transactions on Medical Imaging*
-
-- Built a Transformer-enhanced NeRF framework for 3D CT reconstruction from sparse and single-view X-ray projections, targeting low-dose imaging
-- Introduced Masked Local–Global (MLG) ray sampling, reducing ray samples by **~40%** while preserving anatomical detail
-- Achieved **+6–12 dB PSNR improvement** over FDK/SART and **~2–3 dB** over NeRF, with SSIM up to **0.97+** on chest, foot, and head CT datasets
-- **Tech:** Python, PyTorch, NeRF, Transformers
-
-#### **LUMEN - Localized Unified Medical Engine for Triage**
-
-*OpenAI Academy × NxtWave Buildathon (State-Level Selection, 2025)*
-
-- Built a multilingual, voice-first AI healthcare assistant for rural India
-- Integrated symptom-based triage, AI specialist guidance, lab report analysis, emergency education, government scheme discovery, women's health modules
-- Implemented low-dose CT reconstruction pipeline (PEARL) using diffusion models and NeRFs
 
 ### Hackathon Projects
 
-#### **AI-driven Legal Document Simplification Platform**
+**[1] LUMEN - Localized Unified Medical Engine for Triage** | OpenAI Academy × NxtWave Buildathon (State-Level Selection)
 
-*Google Cloud Generative AI Hackathon (2025)*
+[Demo](https://lumen-sanchit.netlify.app/) | [Repository](https://github.com/sanchit1606/LUMEN.git)
 
-- Developed an AI-driven legal document simplification platform using Gemini, Vertex AI, FastAPI, and RAG pipelines
-- Enabled clause-level retrieval, multilingual explanations, and user-friendly summaries of complex legal documents
+*(FastAPI, Pinecone, PyTorch, Hugging Face, OpenAI APIs, PostgreSQL, Redis, React/Next.js)*
 
-#### **Dual-Image Super-Resolution for Satellite Imagery**
+**[2] AI-driven Legal Document Simplification Platform** | Google Cloud Generative AI Hackathon
 
-*ISRO Bharatiya Antariksh Hackathon 2025*
+[Demo](https://breaking-clause-better-read-saul.vercel.app/) | [Repository](https://github.com/sanchit1606/breaking-clause-better-read-saul.git)
 
-- Worked on dual-image super-resolution for high-resolution satellite imagery
-- Combined classical image processing with Transformer and GAN-based architectures for improved spatial detail reconstruction
+*(React, TypeScript, Express.js, Drizzle ORM, WebSocket, Google Gemini + Document AI + Translation + TTS, Firestore, Cloud Storage)*
 
-### Publications
+### Research Papers + Projects
 
-- **A Multimodal Anonymization Framework for MP4 Videos** (5th Sem, 2025)
+**CT-Former: Reconstructing 3D CT Scans from Single X-rays with Transformer-Enhanced NeRF and MLG Ray Sampling** <sub>(7th Sem, 2025)</sub>
 
-  - *Awarded Best Paper of the Session at IEEE International Conference on Emerging Smart Computing & Informatics (ESCI 2025), Pune*
-- **SigLIP-Gemma-2.4B: Lightweight Multimodal Vision-Language Model** (6th Sem, 2025)
+*Honors Thesis | Currently under review, IEEE Transactions on Medical Imaging journal*
 
-  - *Published in ICTCS 2025, proceedings by Springer LNNS Series*
-- **Face Recognition-Based Attendance System** (3rd Sem, 2023)
+[Repository](https://github.com/sanchit1606/major-project.git)
 
-  - *Published in Springer, series: Advances in Information Communication Technology and Computing (AICTC 2024)*
+*(PyTorch, CUDA, NeRF, Transformers, Hash Grid Encoding, TIGRE, NumPy, scikit-image, matplotlib, 3D CNNs, Adversarial Training, Volume Rendering, YAML Configs)*
 
-### Other Notable Projects
+**SigLIP-Gemma-2.4B: Lightweight Multimodal Vision-Language Model** <sub>(6th Sem, 2025)</sub>
 
-- **Flex Sensor Controlled Prosthetic Hand using Wireless Communication** (4th Sem, 2024)
-  - *Patent published, Intellectual Property India*
+*LLMs & SLMs | Published in ICTCS 2025, proceedings by Springer LNNS Series*
+
+[Proof](https://drive.google.com/drive/folders/12_DKen-k5H-TT4Z3PkdtICCbK5ZpT6SN?usp=sharing)
+
+**A Multimodal Anonymization Framework for MP4 Videos** <sub>(5th Sem, 2025)</sub>
+
+*Computer Vision + AIML | Awarded Best Paper of the Session at IEEE International Conference on Emerging Smart Computing & Informatics (ESCI 2025), Pune - (Scopus indexed)*
+
+[Paper](https://ieeexplore.ieee.org/document/10988328)
+
+*(Vision + Language Models, LLMs, SLMs, Transformer)*
+
+**Flex Sensor Controlled Prosthetic Hand using Wireless Communication** <sub>(4th Sem, 2024)</sub>
+
+*Microprocessors + CAD | Patent published, Intellectual Property India*
+
+[Proof](https://drive.google.com/file/d/1_mMw9ABCAqVOl1DyHkJMzR_75vAQfjUd/view?usp=drive_link)
+
+**Face Recognition-Based Attendance System** <sub>(3rd Sem, 2023)</sub>
+
+*Computer Vision | Published in Springer, series: Advances in Information Communication Technology and Computing (AICTC 2024) - (Scopus indexed)*
+
+[Paper](https://www.springerprofessional.de/en/face-recognition-based-attendance-system/50070728) | [Repository](https://github.com/sanchit1606/Face-Recognition-based-Attendance-System.git)
 
 ---
 
