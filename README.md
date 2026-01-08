@@ -2,7 +2,7 @@
 	<img src="./github-user-contribution.svg" alt="Snake Game"/>
 </p>
 
-# 👋 Hey there! I'm Sanchit
+# Hello, नमस्ते , Hola, Kon'nichiwa, Bonjour, Hallo, Ciao
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Student+%F0%9F%8E%93;Athlete+%F0%9F%8E%BE;Artist+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;Tennis+Player+%F0%9F%8E%BE" alt="Typing SVG" />
@@ -186,42 +186,42 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/LUMEN.git" style="color: #58a6ff;">Repository</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://lumen-sanchit.netlify.app/" style="color: #58a6ff;">Demo</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">FastAPI, Pinecone, PyTorch, Hugging Face, OpenAI APIs, PostgreSQL, Redis, React/Next.js</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><img src="https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688" height="20"/> <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="20"/> <img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=336791" height="20"/> <img src="https://img.shields.io/badge/-Redis-000000?style=flat-square&logo=redis&logoColor=DC382D" height="20"/> <img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=000000" height="20"/></td>
 </tr>
 <tr style="background-color: #0d1117;">
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>AI-driven Legal Document Simplification Platform</strong><br><sub style="color: #8b949e;">Google Cloud Generative AI Hackathon</sub></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/breaking-clause-better-read-saul.git" style="color: #58a6ff;">Repository</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://breaking-clause-better-read-saul.vercel.app/" style="color: #58a6ff;">Demo</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">React, TypeScript, Express.js, Drizzle ORM, WebSocket, Google Gemini + Document AI + Translation + TTS, Firestore, Cloud Storage</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" height="20"/> <img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6" height="20"/> <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=000000" height="20"/> <img src="https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=FFCA28" height="20"/> <img src="https://img.shields.io/badge/-Google%20Cloud-000000?style=flat-square&logo=google-cloud&logoColor=4285F4" height="20"/></td>
 </tr>
 <tr style="background-color: #161b22;">
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>CT-Former: Reconstructing 3D CT Scans from Single X-rays with Transformer-Enhanced NeRF and MLG Ray Sampling</strong> <sub style="color: #8b949e;">(7th Sem, 2025)</sub><br><sub style="color: #8b949e;">Honors Thesis | Currently under review, IEEE Transactions on Medical Imaging journal</sub></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/major-project.git" style="color: #58a6ff;">Repository</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">PyTorch, CUDA, NeRF, Transformers, Hash Grid Encoding, TIGRE, NumPy, scikit-image, matplotlib, 3D CNNs, Adversarial Training, Volume Rendering, YAML Configs</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="20"/> <img src="https://img.shields.io/badge/-CUDA-000000?style=flat-square&logo=nvidia&logoColor=76B900" height="20"/> <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" height="20"/> <img src="https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=013243" height="20"/> <img src="https://img.shields.io/badge/-Matplotlib-000000?style=flat-square&logo=matplotlib&logoColor=11557C" height="20"/></td>
 </tr>
 <tr style="background-color: #0d1117;">
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>SigLIP-Gemma-2.4B: Lightweight Multimodal Vision-Language Model</strong> <sub style="color: #8b949e;">(6th Sem, 2025)</sub><br><sub style="color: #8b949e;">Published in ICTCS 2025, proceedings by Springer LNNS Series</sub></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://drive.google.com/drive/folders/12_DKen-k5H-TT4Z3PkdtICCbK5ZpT6SN?usp=sharing" style="color: #58a6ff;">Proof</a></td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">LLMs & SLMs</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="20"/> <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" height="20"/> <img src="https://img.shields.io/badge/-Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=FFD21E" height="20"/></td>
 </tr>
 <tr style="background-color: #161b22;">
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>A Multimodal Anonymization Framework for MP4 Videos</strong> <sub style="color: #8b949e;">(5th Sem, 2025)</sub><br><sub style="color: #8b949e;">Awarded Best Paper of the Session at IEEE ESCI 2025, Pune - (Scopus indexed)</sub></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://ieeexplore.ieee.org/document/10988328" style="color: #58a6ff;">Paper</a></td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">Computer Vision + AIML, Vision + Language Models, LLMs, SLMs, Transformer</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" height="20"/> <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="20"/> <img src="https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8" height="20"/> <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="20"/></td>
 </tr>
 <tr style="background-color: #161b22;">
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>Face Recognition-Based Attendance System</strong> <sub style="color: #8b949e;">(3rd Sem, 2023)</sub><br><sub style="color: #8b949e;">Published in Springer AICTC 2024 - (Scopus indexed)</sub></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/Face-Recognition-based-Attendance-System.git" style="color: #58a6ff;">Repository</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://www.springerprofessional.de/en/face-recognition-based-attendance-system/50070728" style="color: #58a6ff;">Paper</a></td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">Computer Vision, Python 3.7+, OpenCV 4.8+, GUI: Tkinter</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" height="20"/> <img src="https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8" height="20"/></td>
 </tr>
 </table>
 
