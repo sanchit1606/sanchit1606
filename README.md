@@ -159,55 +159,61 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 
 ## Key Projects & Publications
 
-### Hackathon Projects
+<div align="center">
 
-**[1] LUMEN - Localized Unified Medical Engine for Triage** | OpenAI Academy × NxtWave Buildathon (State-Level Selection)
+<table style="border-collapse: collapse; width: 100%; max-width: 1200px; margin: 0 auto; background-color: #0d1117;">
+<tr style="background: linear-gradient(135deg, #1a1f2e 0%, #2d1b3d 100%); color: #00D4FF;">
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">Title</th>
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">Repository</th>
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">Demo</th>
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">Paper</th>
+<th style="padding: 12px; text-align: left; border: 1px solid #30363d; color: #00D4FF;">Tech Stack</th>
+</tr>
+<tr style="background-color: #161b22;">
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>LUMEN - Localized Unified Medical Engine for Triage</strong><br><sub style="color: #8b949e;">OpenAI Academy × NxtWave Buildathon (State-Level Selection)</sub></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/LUMEN.git" style="color: #58a6ff;">Repository</a></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://lumen-sanchit.netlify.app/" style="color: #58a6ff;">Demo</a></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">FastAPI, Pinecone, PyTorch, Hugging Face, OpenAI APIs, PostgreSQL, Redis, React/Next.js</td>
+</tr>
+<tr style="background-color: #0d1117;">
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>AI-driven Legal Document Simplification Platform</strong><br><sub style="color: #8b949e;">Google Cloud Generative AI Hackathon</sub></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/breaking-clause-better-read-saul.git" style="color: #58a6ff;">Repository</a></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://breaking-clause-better-read-saul.vercel.app/" style="color: #58a6ff;">Demo</a></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">React, TypeScript, Express.js, Drizzle ORM, WebSocket, Google Gemini + Document AI + Translation + TTS, Firestore, Cloud Storage</td>
+</tr>
+<tr style="background-color: #161b22;">
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>CT-Former: Reconstructing 3D CT Scans from Single X-rays with Transformer-Enhanced NeRF and MLG Ray Sampling</strong> <sub style="color: #8b949e;">(7th Sem, 2025)</sub><br><sub style="color: #8b949e;">Honors Thesis | Currently under review, IEEE Transactions on Medical Imaging journal</sub></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/major-project.git" style="color: #58a6ff;">Repository</a></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">PyTorch, CUDA, NeRF, Transformers, Hash Grid Encoding, TIGRE, NumPy, scikit-image, matplotlib, 3D CNNs, Adversarial Training, Volume Rendering, YAML Configs</td>
+</tr>
+<tr style="background-color: #0d1117;">
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>SigLIP-Gemma-2.4B: Lightweight Multimodal Vision-Language Model</strong> <sub style="color: #8b949e;">(6th Sem, 2025)</sub><br><sub style="color: #8b949e;">LLMs & SLMs | Published in ICTCS 2025, proceedings by Springer LNNS Series</sub></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://drive.google.com/drive/folders/12_DKen-k5H-TT4Z3PkdtICCbK5ZpT6SN?usp=sharing" style="color: #58a6ff;">Proof</a></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">-</td>
+</tr>
+<tr style="background-color: #161b22;">
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>A Multimodal Anonymization Framework for MP4 Videos</strong> <sub style="color: #8b949e;">(5th Sem, 2025)</sub><br><sub style="color: #8b949e;">Computer Vision + AIML | Awarded Best Paper of the Session at IEEE ESCI 2025, Pune - (Scopus indexed)</sub></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://ieeexplore.ieee.org/document/10988328" style="color: #58a6ff;">Paper</a></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">Vision + Language Models, LLMs, SLMs, Transformer</td>
+</tr>
+<tr style="background-color: #161b22;">
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>Face Recognition-Based Attendance System</strong> <sub style="color: #8b949e;">(3rd Sem, 2023)</sub><br><sub style="color: #8b949e;">Computer Vision | Published in Springer AICTC 2024 - (Scopus indexed)</sub></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/Face-Recognition-based-Attendance-System.git" style="color: #58a6ff;">Repository</a></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://www.springerprofessional.de/en/face-recognition-based-attendance-system/50070728" style="color: #58a6ff;">Paper</a></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">-</td>
+</tr>
+</table>
 
-[Demo](https://lumen-sanchit.netlify.app/) | [Repository](https://github.com/sanchit1606/LUMEN.git)
-
-*(FastAPI, Pinecone, PyTorch, Hugging Face, OpenAI APIs, PostgreSQL, Redis, React/Next.js)*
-
-**[2] AI-driven Legal Document Simplification Platform** | Google Cloud Generative AI Hackathon
-
-[Demo](https://breaking-clause-better-read-saul.vercel.app/) | [Repository](https://github.com/sanchit1606/breaking-clause-better-read-saul.git)
-
-*(React, TypeScript, Express.js, Drizzle ORM, WebSocket, Google Gemini + Document AI + Translation + TTS, Firestore, Cloud Storage)*
-
-### Research Papers + Projects
-
-**CT-Former: Reconstructing 3D CT Scans from Single X-rays with Transformer-Enhanced NeRF and MLG Ray Sampling** <sub>(7th Sem, 2025)</sub>
-
-*Honors Thesis | Currently under review, IEEE Transactions on Medical Imaging journal*
-
-[Repository](https://github.com/sanchit1606/major-project.git)
-
-*(PyTorch, CUDA, NeRF, Transformers, Hash Grid Encoding, TIGRE, NumPy, scikit-image, matplotlib, 3D CNNs, Adversarial Training, Volume Rendering, YAML Configs)*
-
-**SigLIP-Gemma-2.4B: Lightweight Multimodal Vision-Language Model** <sub>(6th Sem, 2025)</sub>
-
-*LLMs & SLMs | Published in ICTCS 2025, proceedings by Springer LNNS Series*
-
-[Proof](https://drive.google.com/drive/folders/12_DKen-k5H-TT4Z3PkdtICCbK5ZpT6SN?usp=sharing)
-
-**A Multimodal Anonymization Framework for MP4 Videos** <sub>(5th Sem, 2025)</sub>
-
-*Computer Vision + AIML | Awarded Best Paper of the Session at IEEE International Conference on Emerging Smart Computing & Informatics (ESCI 2025), Pune - (Scopus indexed)*
-
-[Paper](https://ieeexplore.ieee.org/document/10988328)
-
-*(Vision + Language Models, LLMs, SLMs, Transformer)*
-
-**Flex Sensor Controlled Prosthetic Hand using Wireless Communication** <sub>(4th Sem, 2024)</sub>
-
-*Microprocessors + CAD | Patent published, Intellectual Property India*
-
-[Proof](https://drive.google.com/file/d/1_mMw9ABCAqVOl1DyHkJMzR_75vAQfjUd/view?usp=drive_link)
-
-**Face Recognition-Based Attendance System** <sub>(3rd Sem, 2023)</sub>
-
-*Computer Vision | Published in Springer, series: Advances in Information Communication Technology and Computing (AICTC 2024) - (Scopus indexed)*
-
-[Paper](https://www.springerprofessional.de/en/face-recognition-based-attendance-system/50070728) | [Repository](https://github.com/sanchit1606/Face-Recognition-based-Attendance-System.git)
+</div>
 
 ---
 
