@@ -26,9 +26,13 @@
   <img src="./PHOTO_SANCHIT.jpeg" alt="Sanchit Nipanikar" width="200" style="border-radius: 50%; border: 3px solid #00D4FF;" />
 </div>
 
+<div align="center">
+
 > *"You never get a second chance to make a first impression"* - Will Rogers
 
 Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engineering from Vishwakarma Institute of Technology, Pune. Welcome to my GitHub profile! 👋
+
+</div>
 
 <div align="center">
 
@@ -45,6 +49,14 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 **Tennis!** 🎾
 
 ---
+
+<div align="center">
+
+<a href="mailto:sanchitnipanikar@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://portfolio-three-silk-62.vercel.app/"> <img src="https://skillicons.dev/icons?i=vercel"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/sanchit1606"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
+
+</div>
+
+<br>
 
 ## Tech Stack
 
@@ -191,46 +203,31 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">PyTorch, CUDA, NeRF, Transformers, Hash Grid Encoding, TIGRE, NumPy, scikit-image, matplotlib, 3D CNNs, Adversarial Training, Volume Rendering, YAML Configs</td>
 </tr>
 <tr style="background-color: #0d1117;">
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>SigLIP-Gemma-2.4B: Lightweight Multimodal Vision-Language Model</strong> <sub style="color: #8b949e;">(6th Sem, 2025)</sub><br><sub style="color: #8b949e;">LLMs & SLMs | Published in ICTCS 2025, proceedings by Springer LNNS Series</sub></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>SigLIP-Gemma-2.4B: Lightweight Multimodal Vision-Language Model</strong> <sub style="color: #8b949e;">(6th Sem, 2025)</sub><br><sub style="color: #8b949e;">Published in ICTCS 2025, proceedings by Springer LNNS Series</sub></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://drive.google.com/drive/folders/12_DKen-k5H-TT4Z3PkdtICCbK5ZpT6SN?usp=sharing" style="color: #58a6ff;">Proof</a></td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">-</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">LLMs & SLMs</td>
 </tr>
 <tr style="background-color: #161b22;">
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>A Multimodal Anonymization Framework for MP4 Videos</strong> <sub style="color: #8b949e;">(5th Sem, 2025)</sub><br><sub style="color: #8b949e;">Computer Vision + AIML | Awarded Best Paper of the Session at IEEE ESCI 2025, Pune - (Scopus indexed)</sub></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>A Multimodal Anonymization Framework for MP4 Videos</strong> <sub style="color: #8b949e;">(5th Sem, 2025)</sub><br><sub style="color: #8b949e;">Awarded Best Paper of the Session at IEEE ESCI 2025, Pune - (Scopus indexed)</sub></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://ieeexplore.ieee.org/document/10988328" style="color: #58a6ff;">Paper</a></td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">Vision + Language Models, LLMs, SLMs, Transformer</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">Computer Vision + AIML, Vision + Language Models, LLMs, SLMs, Transformer</td>
 </tr>
 <tr style="background-color: #161b22;">
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>Face Recognition-Based Attendance System</strong> <sub style="color: #8b949e;">(3rd Sem, 2023)</sub><br><sub style="color: #8b949e;">Computer Vision | Published in Springer AICTC 2024 - (Scopus indexed)</sub></td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>Face Recognition-Based Attendance System</strong> <sub style="color: #8b949e;">(3rd Sem, 2023)</sub><br><sub style="color: #8b949e;">Published in Springer AICTC 2024 - (Scopus indexed)</sub></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/Face-Recognition-based-Attendance-System.git" style="color: #58a6ff;">Repository</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://www.springerprofessional.de/en/face-recognition-based-attendance-system/50070728" style="color: #58a6ff;">Paper</a></td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">-</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">Computer Vision, Python 3.7+, OpenCV 4.8+, GUI: Tkinter</td>
 </tr>
 </table>
 
 </div>
 
 ---
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchit1606&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=sanchit1606&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchit1606&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchit1606&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&color=00D4FF&line=00D4FF&point=00D4FF" alt="GitHub Activity Graph" />
-</div>
 
 ## Certifications & Awards
 
@@ -317,7 +314,7 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanchit1606&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanchit1606&theme=tokyonight" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -326,6 +323,10 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 
 <div align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=sanchit1606&theme=tokyonight" alt="Contribution Stats" />
+</div>
+
+<div align="center">
+  <img src="./effect4.gif" alt="Effect 4 Animation" />
 </div>
 
 ---
