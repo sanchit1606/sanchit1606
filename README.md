@@ -212,14 +212,14 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 </tr>
 <tr style="background-color: #0d1117;">
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>SigLIP-Gemma-2.4B: Lightweight Multimodal Vision-Language Model</strong> <sub style="color: #8b949e;">(6th Sem, 2025)</sub><br><sub style="color: #8b949e;">Published in ICTCS 2025, proceedings by Springer LNNS Series</sub></td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/SigLIP-Gemma-2.4B-Lightweight-Multimodal-Vision-Language-Model.git" style="color: #58a6ff;">Repository</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://drive.google.com/drive/folders/12_DKen-k5H-TT4Z3PkdtICCbK5ZpT6SN?usp=sharing" style="color: #58a6ff;">Proof</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="20"/> <img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" height="20"/> <img src="https://img.shields.io/badge/-Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=FFD21E" height="20"/></td>
 </tr>
 <tr style="background-color: #161b22;">
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><strong>A Multimodal Anonymization Framework for MP4 Videos</strong> <sub style="color: #8b949e;">(5th Sem, 2025)</sub><br><sub style="color: #8b949e;">Awarded Best Paper of the Session at IEEE ESCI 2025, Pune - (Scopus indexed)</sub></td>
-<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
+<td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://github.com/sanchit1606/A-Multimodal-Anonymization-Framework-for-MP4-Videos.git" style="color: #58a6ff;">Repository</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;">NA</td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><a href="https://ieeexplore.ieee.org/document/10988328" style="color: #58a6ff;">Paper</a></td>
 <td style="padding: 12px; border: 1px solid #30363d; color: #c9d1d9;"><img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" height="20"/> <img src="https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C" height="20"/> <img src="https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8" height="20"/> <img src="https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00" height="20"/></td>
