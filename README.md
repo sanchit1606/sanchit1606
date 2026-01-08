@@ -26,9 +26,15 @@
 
 Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engineering from Vishwakarma Institute of Technology, Pune. Welcome to my GitHub profile! 👋
 
+<div align="center">
+
 ### Currently Working On
 
-- **LUMEN** - Localized Unified Medical Engine for Triage (OpenAI×NXTWave Buildathon - State-Level Selection) | [Demo](https://lumen-sanchit.netlify.app/) | [Repository](https://github.com/sanchit1606/LUMEN.git)
+**LUMEN** - Localized Unified Medical Engine for Triage (OpenAI×NXTWave Buildathon - State-Level Selection) | [Demo](https://lumen-sanchit.netlify.app/) | [Repository](https://github.com/sanchit1606/LUMEN.git)
+
+<img src="./effecrt.gif" alt="Effect Animation" width="300" />
+
+</div>
 
 ### Ask me about
 
