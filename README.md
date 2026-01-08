@@ -2,7 +2,11 @@
 	<img src="./github-user-contribution.svg" alt="Snake Game"/>
 </p>
 
+<div align="center">
+
 # Hello, नमस्ते , Hola, Kon'nichiwa, Bonjour, Hallo, Ciao
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Student+%F0%9F%8E%93;Athlete+%F0%9F%8E%BE;Artist+%F0%9F%8E%A8;AI+Enthusiast+%F0%9F%A4%96;Tennis+Player+%F0%9F%8E%BE" alt="Typing SVG" />
@@ -44,15 +48,17 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 
 </div>
 
-### Ask me about
-
-**Tennis!** 🎾
-
 ---
 
 <div align="center">
 
 <a href="mailto:sanchitnipanikar@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://portfolio-three-silk-62.vercel.app/"> <img src="https://skillicons.dev/icons?i=vercel"/> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://linkedin.com/in/sanchit1606"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a>
+
+<br>
+
+<a href="https://github.com/sanchit1606?tab=followers">
+  <img src="https://img.shields.io/github/followers/sanchit1606?label=Follow%20on%20GitHub&style=social" alt="Follow on GitHub"/>
+</a>
 
 </div>
 
