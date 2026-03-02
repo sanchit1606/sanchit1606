@@ -40,12 +40,6 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 
 <div align="center">
 
-### Currently Working On
-
-**LUMEN** - Localized Unified Medical Engine for Triage (OpenAI×NXTWave Buildathon - selected for State-Level)
-
-| [Demo](https://lumen-sanchit.netlify.app/) | [Repository](https://github.com/sanchit1606/LUMEN.git) |
-
 <img src="./assets/readme/effecrt.gif" alt="Effect Animation" width="300" />
 
 </div>
