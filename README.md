@@ -101,8 +101,6 @@ Hi, I'm **Sanchit** and currently in my final year of bachelors in Computer Engi
 
 ---
 
----
-
 ## Key Projects & Publications
 
 <div align="center">
